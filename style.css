@@ -119,3 +119,35 @@ body{
     height: 20px;
     cursor: pointer;
 }
+
+.barra{
+    background-color: var(--fundo-senha);
+    height: 30px;
+    width: 100%;
+}
+
+.parametro-senha-textos{
+    display: flex;
+    justify-content:space-between;
+}
+
+.força{
+    height: 30px;
+    position: relative;
+    bottom: 30px;
+}
+
+.media{
+    background-color: yellow;
+    width: 50%;   
+}
+
+.forte{
+    background-color: green;
+    width: 100%;   
+}
+
+.fraca{
+    background-color: #E71B32;
+    width: 25%;   
+}
